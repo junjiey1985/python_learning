@@ -1,4 +1,6 @@
-# python_learning
+## Python最佳实践
+
+### python_learning
 
 Beautiful is better than ugly.
 
@@ -13,7 +15,7 @@ There should be one-- and preferably only one --obvious way to do it.
 Now is better than never.
 
 
-参考书籍---Python编程：从入门到实践
+## Django相关命令
 
 ### 建立虚拟环境
  python -m venv ll_env
@@ -38,4 +40,7 @@ python manage.py makemigrations learning_logs
 
 ### 要在 Django 中创建超级用户
 python manage.py createsuperuser
+
+
+参考书籍---Python编程：从入门到实践
 
